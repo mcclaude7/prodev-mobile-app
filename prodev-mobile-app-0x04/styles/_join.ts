@@ -122,6 +122,10 @@ const styles = StyleSheet.create({
         color: '#34967C',
         marginTop: 9,
     },
+    buttonGroup: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+    },
 });
 
 export { styles };

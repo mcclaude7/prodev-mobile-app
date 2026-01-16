@@ -1,5 +1,5 @@
 import { FACEBOOKLOGO, GOOGLELOGO } from '@/constants';
-import { styles } from '@/styles/_joinstyle';
+import { styles } from '@/styles/_join';
 import { useRouter } from 'expo-router';
 import React, { useState } from 'react';
 import { Image, Text, TextInput, TouchableOpacity, View } from 'react-native';
